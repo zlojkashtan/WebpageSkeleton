@@ -1,0 +1,5 @@
+ProjectTitle: project.domain
+
+PageList:
+    - file: index.html
+	- file: 404.html
